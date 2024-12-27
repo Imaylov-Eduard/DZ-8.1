@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Задача№1");
+        System.out.println("Задача№1.");
 
         Author author1 = new Author("Leo", "Tolstoy");
         Author author2 = new Author("Fiodor", "Dostoevsky");
